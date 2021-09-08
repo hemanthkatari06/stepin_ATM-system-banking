@@ -20,6 +20,14 @@ Concepts used:
        Random Number Generation.
 * This Project is to make an Automated Teller Machine with using users ATM card pin number with that users can withdraw, deposit, and view their account balance and transaction history.
 
+## Folder Structure
+
+Folder             | Description
+-------------------| -----------------------------------------
+`1_Requirements`   | Documents detailing requirements and research
+`2_Design`         | Documents specifying design related
+`3_Implementation` | All code and documentation
+`4_Test_plan`      | Documents with test plans and procedures and outputs
 
 
 
