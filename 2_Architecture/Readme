@@ -1,1 +1,21 @@
 
+#Structural Diagrams
+
+Structural diagrams represent the static aspects of a system. These static aspects represent those parts of a diagram which forms the main structure and is therefore stable.
+
+These static parts are represented by State chart, Sequence, Process flow. Structural diagrams can be sub-divided as follows −
+
+
+State chart diagram
+Sequence diagram
+Process flow diagram
+
+#Behavioral Diagrams
+
+Behavioral diagrams basically capture the dynamic aspect of a system. Dynamic aspects are basically the changing/moving parts of a system. UML has the following types of behavioral diagrams −
+
+Use case diagram
+Class diagram
+Collaboration diagram
+Component diagram
+
