@@ -36,10 +36,6 @@ Concepts used:
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 CODE INSPECTOR TESTING
 
-[![Code quality](https://www.code-inspector.com/project/28057/score/svg)
-
-[![code grade](https://www.code-inspector.com/project/28057/status/svg)
-
 ![](https://www.code-inspector.com/project/28123/score/svg)
 
 ![](https://www.code-inspector.com/project/28123/status/svg)
