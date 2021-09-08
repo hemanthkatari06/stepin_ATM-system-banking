@@ -40,6 +40,10 @@ CODE INSPECTOR TESTING
 
 [![code grade](https://www.code-inspector.com/project/28057/status/svg)
 
+![](https://www.code-inspector.com/project/28123/score/svg)
+
+![](https://www.code-inspector.com/project/28123/status/svg)
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 CODEACY TESTING
 
