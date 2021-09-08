@@ -19,3 +19,4 @@ Concepts used:
        Pointers
        Random Number Generation.
 * This Project is to make an Automated Teller Machine with using users ATM card pin number with that users can withdraw, deposit, and view their account balance and transaction history.
+[![CI](https://github.com/hemanthkatari06/stepin_ATM-system-banking/actions/workflows/build.yml/badge.svg)](https://github.com/hemanthkatari06/stepin_ATM-system-banking/actions/workflows/build.yml)
