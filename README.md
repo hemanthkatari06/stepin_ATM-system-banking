@@ -25,4 +25,14 @@ Concepts used:
 
 [![CI](https://github.com/hemanthkatari06/stepin_ATM-system-banking/actions/workflows/build.yml/badge.svg)](https://github.com/hemanthkatari06/stepin_ATM-system-banking/actions/workflows/build.yml)
 
+[![cppcheck-action](https://github.com/hemanthkatari06/stepin_ATM-system-banking/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/hemanthkatari06/stepin_ATM-system-banking/actions/workflows/cppcheck.yml)
+
+[![Unit testing](https://github.com/hemanthkatari06/stepin_ATM-system-banking/actions/workflows/unit%20testing.yml/badge.svg)](https://github.com/hemanthkatari06/stepin_ATM-system-banking/actions/workflows/unit%20testing.yml)
+
+[![Valgrind](https://github.com/hemanthkatari06/stepin_ATM-system-banking/actions/workflows/valgrind.yml/badge.svg)](https://github.com/hemanthkatari06/stepin_ATM-system-banking/actions/workflows/valgrind.yml)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 [![Code quality](https://www.code-inspector.com/project/28057/score/svg)
+
+[![code grade](https://www.code-inspector.com/project/28057/status/svg)
