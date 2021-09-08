@@ -5,8 +5,7 @@ PROJECT_NAME = BANKING
 BUILD = build
 
 # All source code files
-SRC = code.c\
-src/compute.c
+SRC = main.c
 
 # All test source files
 TEST_SRC = src/compute.c\
