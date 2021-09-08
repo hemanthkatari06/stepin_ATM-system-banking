@@ -31,6 +31,8 @@ Concepts used:
 
 [![Valgrind](https://github.com/hemanthkatari06/stepin_ATM-system-banking/actions/workflows/valgrind.yml/badge.svg)](https://github.com/hemanthkatari06/stepin_ATM-system-banking/actions/workflows/valgrind.yml)
 
+[![Contribution Check - Git Inspector](https://github.com/hemanthkatari06/stepin_ATM-system-banking/actions/workflows/git%20Inspector.yml/badge.svg)](https://github.com/hemanthkatari06/stepin_ATM-system-banking/actions/workflows/git%20Inspector.yml)
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 CODE INSPECTOR TESTING
 
