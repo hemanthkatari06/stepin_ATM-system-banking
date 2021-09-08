@@ -24,3 +24,5 @@ Concepts used:
 
 
 [![CI](https://github.com/hemanthkatari06/stepin_ATM-system-banking/actions/workflows/build.yml/badge.svg)](https://github.com/hemanthkatari06/stepin_ATM-system-banking/actions/workflows/build.yml)
+
+[![Code quality](https://www.code-inspector.com/project/28057/score/svg)
